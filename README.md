@@ -1,1 +1,1 @@
-# IntroductionToInteractiveMedia
+# Introduction to Interactive Media
