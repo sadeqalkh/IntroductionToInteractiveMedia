@@ -6,4 +6,4 @@
 
 - Reaching to this point was resulted from challenges I passed through from my initial ideas. In which, my intension was to have two different animations in one function which was from draw(). Many times, I try to run the page but it mostly results in displaying one animation instead of two. Thus, it lead me to brainstorm and get some inspiration from the article http://dada.compart-bremen.de/docUploads/ProgrammInformation21_PI21.pdf in page 31.
 
-
+<img width="462" alt="Screen Shot 2020-06-02 at 1 54 23 AM" src="https://user-images.githubusercontent.com/60816393/83458723-08dbb700-a474-11ea-82c2-cd51b10a015f.png">
