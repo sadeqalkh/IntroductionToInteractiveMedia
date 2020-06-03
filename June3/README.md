@@ -9,3 +9,4 @@
 
 - The challenges I have encountered in this program is the confusion I have experienced while trying to create my initial idea of this assignment. The assignment was structured to be not represented as a flowing Burj in the output screen. Instead, I intended to have the rectangles move in within the horizontal axis and then reach an endpoint of (0,0) of the output screen. 
 
+![June 3rd Assignment Idea - Sadeq](https://user-images.githubusercontent.com/60816393/83612738-dc1ec100-a593-11ea-9608-9265d1092f07.jpeg)
