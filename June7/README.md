@@ -9,4 +9,4 @@
 - The challenges I experienced in this program was to simplify the code for a better understanding. In my previous version, I experienced issues with variables. I debugged this problem by adding all the line() variables in a for loop, to represent one step in the program instead of 10 line() variables separately.
   I also encountered issues with scale() transformation.  My intension in scale() is to have a specified range within the X-axis that executes a smooth motion for the user. In my program, this idea by implementing scale() transformation is not working as intended in the pupil because scale() tends to disappear after executing the maximum value in a positive X-axis plane.
   
-- In this program, I implemented a concept from DANIEL SHIFFMAN's example in "Nested Push Pop" to represent in my program the IRIS lines http://learningprocessing.com/examples/chp14/example-14-17-nested-push-pop.
+- In this program, I implemented a concept from Daniel Shiffman's example in "Nested Push Pop" to represent in my program the IRIS lines http://learningprocessing.com/examples/chp14/example-14-17-nested-push-pop.
