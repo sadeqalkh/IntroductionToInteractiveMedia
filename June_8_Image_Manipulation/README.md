@@ -2,7 +2,7 @@
 
 <img width="1598" alt="Screen Shot 2020-06-08 at 11 00 56 AM" src="https://user-images.githubusercontent.com/60816393/84001302-5de96280-a977-11ea-858d-11633cd5bc7d.png">
 
-### Pictures that are implemented in this program.
+### Pictures that are implemented in this program:
 
 PIC0
 
@@ -31,3 +31,9 @@ The concept of this program is to let the users espically photographers to exper
 ### Challenges:
 
 The challenges I have encountered in this program was to understand how I can upload a collection of pictures to represent one variable, such as in Daniel Shiffman's example in Chapter 15.3, "ImageArray1." I then looked into the data from his example to understand why many pictures represent a single variable. As the program calls for a data ends with a zero, the program then proceeds to the next number until there is an endpoint. My endpoint was "4" to represent five different images to be saved in the array "PImages[]." Hence, this experience made me understand the usage of array thoroughly.
+
+### Resources:
+
+I used a generative text example from the lecture notes to help me navigate and start in my idea.
+
+I also used a Daniel Shiffman's example from Chapter 15.3, "ImageArray1" to understand the implementation of arrays and pictures, as I wanted to include more than one picture in the output screen.
