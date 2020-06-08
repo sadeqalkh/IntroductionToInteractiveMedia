@@ -34,6 +34,6 @@ The challenges I have encountered in this program was to understand how I can up
 
 ### Resources:
 
-I used a generative text example from the lecture notes to help me navigate and start in my idea.
+- I used a generative text example from the lecture notes to help me navigate and start in my idea.
 
-I also used a Daniel Shiffman's example from Chapter 15.3, "ImageArray1" to understand the implementation of arrays and pictures, as I wanted to include more than one picture in the output screen.
+- I also used a Daniel Shiffman's example from Chapter 15.3, "ImageArray1" to understand the implementation of arrays and pictures, as I wanted to include more than one picture in the output screen.
