@@ -5,19 +5,19 @@
 ### Pictures that are implemented in this program.
 
 PIC0
-![PIC0](https://user-images.githubusercontent.com/60816393/84003565-5035dc00-a97b-11ea-9167-bdc58959887c.jpg)
+          ![PIC0](https://user-images.githubusercontent.com/60816393/84003565-5035dc00-a97b-11ea-9167-bdc58959887c.jpg)
 
 PIC1
-![PIC1](https://user-images.githubusercontent.com/60816393/84003570-51ff9f80-a97b-11ea-8618-46c08123ce06.jpg)
+          ![PIC1](https://user-images.githubusercontent.com/60816393/84003570-51ff9f80-a97b-11ea-8618-46c08123ce06.jpg)
 
 PIC2
-![PIC2](https://user-images.githubusercontent.com/60816393/84003573-5330cc80-a97b-11ea-8e7e-b857c608f1fa.jpg)
+          ![PIC2](https://user-images.githubusercontent.com/60816393/84003573-5330cc80-a97b-11ea-8e7e-b857c608f1fa.jpg)
 
 PIC3
-![PIC3](https://user-images.githubusercontent.com/60816393/84003579-5461f980-a97b-11ea-9767-ae0bc2d64ee2.jpg)
+          ![PIC3](https://user-images.githubusercontent.com/60816393/84003579-5461f980-a97b-11ea-9767-ae0bc2d64ee2.jpg)
 
 PIC4
-![PIC4](https://user-images.githubusercontent.com/60816393/84003583-55932680-a97b-11ea-9751-ceca345ba552.jpg)
+          ![PIC4](https://user-images.githubusercontent.com/60816393/84003583-55932680-a97b-11ea-9751-ceca345ba552.jpg)
 
 ### Concept:
 
