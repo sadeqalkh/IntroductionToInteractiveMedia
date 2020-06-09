@@ -1,5 +1,7 @@
 # Midterm Assignment Page:
 
+### Pictures of this assignment's program and Screenshots of its process:
+
 ### Concept:
 
 ### Outcome:
