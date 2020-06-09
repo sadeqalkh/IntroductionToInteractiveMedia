@@ -1,6 +1,6 @@
 # Midterm Assignment Page:
 
-### Pictures of this assignment's program and Screenshots of its process:
+### Pictures of this assignment's program and screenshots of its process:
 
 ### Concept:
 
