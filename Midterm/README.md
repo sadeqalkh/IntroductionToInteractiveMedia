@@ -25,7 +25,14 @@ The concept of this program is to let the users experience a game with two diffe
 
 ### Outcome:
 
+This assignment helped me to understand how I add multiple pages in a program. In which, colors in this program played an essential role in the transition from one page to another. Mainly because of an if statement which declares that if a mouse touched a specific color, proceed in applying a top layer that represents a second page. I also learned how to create different "PageStates" in which its role is to save integer variables in the manner of representing different pages. For instance, if I had "PageState == 0" and "PageState == 1," 0 will resemble a first page and 1 will resemble a second page. In this step, the PageState will be represented within the if statement; for example, if the mouse touches (255), which is white in the current page, proceed to "PageState == 1," is the second page.
+This assignment also helped me understand the application of sounds in processing and how it might motivate the users differently. The background music saved in the program as a loop() plays a role in representing a 3rd sense to the program that is by hearing. The game motivated the users to use three of their senses in this program: sight, touch, and hearing. Hence, this game communicates an interactive experience to the users. Sounds in a program can also represent a tools for hooking people to the program.
+
 ### Challenges:
+
+The challenges that I encountered in this program is undoubtedly from organizing the program to carry many intended concepts all at once. I tried to simplify my code in my early state; however, it only resulted in errors while running the program. I then decided to organize them in different tabs that are in the manner of representing different setups of the game. I added the "Main_Setup" which represents most of the statements that help in running the program and the interactive experience. The "First_Maze_Setup" and the "Second_Maze_Setup" represents the base structure of the maze, which is the maze walls.
+
+The second challenge is applying play() it sounds to apply many SFX to the two-game statuses. At first, I was confused about where to use sounds in the code, mainly because of how play() sounded in the program. In play(), I tried two different file types, WAV, and MP3, which had a difference only in the file size. As I applied a file in play(), the SFX in the program sounded like cracks with slow.mo of the original. Unfortunately, the play() variable does not stop the file from running with cracks until I stop running the program.
 
 ### Resource:
 Circle not passing the Maze walls, and creating overlapped pages:
