@@ -8,6 +8,10 @@
 
 <img width="999" alt="Screen Shot 2020-06-10 at 11 33 10 AM" src="https://user-images.githubusercontent.com/60816393/84239899-4395bd00-ab0e-11ea-875a-6ed96c5113c1.png">
 
+<img width="999" alt="Screen Shot 2020-06-10 at 11 35 42 AM" src="https://user-images.githubusercontent.com/60816393/84240122-97080b00-ab0e-11ea-840f-c5ec3bb5d7ba.png">
+
+<img width="1001" alt="Screen Shot 2020-06-10 at 11 36 38 AM" src="https://user-images.githubusercontent.com/60816393/84240162-aa1adb00-ab0e-11ea-8cd3-9b9a235521b3.png">
+
 
 ### Concept:
 
