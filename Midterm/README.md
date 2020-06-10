@@ -21,6 +21,8 @@ A method when applying rect() to the first Maze
 
 ### Concept:
 
+The concept of this program is to let the users experience a game with two different modes. This game is a Maze, and the two different modes represent two different structures of the maze. The user is required to use the mouse in the game until a status appears, a win a lose. In the black background, the user is required to click 'space' if he is willing to retry the same maze structure or the second. The red circle, which represents a subject that is controlled by the mouse, cannot pass or touch the Maze walls; that is, if the user wants to win the mode. To win the game, the user must reach the red circle to the blue square, which resembles the finish point of the mode.
+
 ### Outcome:
 
 ### Challenges:
