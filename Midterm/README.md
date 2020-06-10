@@ -34,7 +34,7 @@ The challenges that I encountered in this program is undoubtedly from organizing
 
 The second challenge is applying play() it sounds to apply many SFX to the two-game statuses. At first, I was confused about where to use sounds in the code, mainly because of how play() sounded in the program. In play(), I tried two different file types, WAV, and MP3, which had a difference only in the file size. As I applied a file in play(), the SFX in the program sounded like cracks with slow.mo of the original. Unfortunately, the play() variable does not stop the file from running with cracks until I stop running the program.
 
-### Resource:
+### Resources:
 Circle not passing the Maze walls, and creating overlapped pages:
  https://www.youtube.com/watch?v=teEO51HkRxk
 Sounds:
