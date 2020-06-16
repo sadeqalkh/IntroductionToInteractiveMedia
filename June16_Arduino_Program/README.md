@@ -14,7 +14,8 @@
 ### Schematic Drawing:
 
 ### Concept:
-
+The concept of this program is to give the user the ability to experience how switches and light sensors can motivate LEDs differently. The analog sensor will control three different modes in the LED brightness: Off, Average and High. The LED's will turn off if the surrounding light was bright, which is considered in the program greater than 550. To have an average light, the light sensor should detect indoor light, ranging between 350 and 550 in the program. Lastly, to have high mode in the LEDs, the arduino board surrounding should be dark. In which, the dark region in the program is considered to be any value that is less than 350.
+The second aspect from this program is the usage of a switch. The switch plays a role in controlling three LEDs to switch on or off. The user should tap on the switch to get an off result; untapping it will result the LEDs to remain open. The blinking of the LEDs are motivated by the analogRead from the program.
 ### Outcome:
 
 ### Challenges:
