@@ -11,7 +11,7 @@
 
 ![20200616_043306](https://user-images.githubusercontent.com/60816393/84718840-cdb8a800-af8a-11ea-8b36-81dcb5e9fd6c.jpg)
 
-### Skematic Drawing:
+### Schematic Drawing:
 
 ### Concept:
 
