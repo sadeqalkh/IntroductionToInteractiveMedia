@@ -13,6 +13,7 @@
 
 ### Schematic Drawing:
 
+![WhatsApp Image 2020-06-16 at 4 44 59 PM](https://user-images.githubusercontent.com/60816393/84776122-fbd0d300-aff0-11ea-996f-9df5a87dc2b6.jpeg)
 
 
 ### Concept:
