@@ -13,8 +13,7 @@
 
 ### Schematic Diagram:
 
-
-
+![Schematic Diagram](https://user-images.githubusercontent.com/60816393/84776272-2884ea80-aff1-11ea-8198-4b902a2a30be.jpeg)
 
 ### Concept:
   The concept of this program is to give the user the ability to experience how switches and light sensors can motivate LEDs differently. The analog sensor will control three modes in the LED brightness: Off, Average, and High. The LED's will turn off if the surrounding light was bright, considered in the program to be greater than 550. In the second stage, the light sensor should detect indoor light, ranging between 350 and 550 in the program. Lastly, to have a high mode in the LEDs, the Arduino board surrounding should be dark. The program considers dark or shaded surroundings to be any value that is less than 350.
