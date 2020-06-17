@@ -11,4 +11,6 @@
 ### Challenges:
 
 ### Resources:
-Arduino Examples "Blink Without Delay" and "Servo/Sweep"
+Arduino Examples:
+- "Blink Without Delay" 
+- "Servo/Sweep"
