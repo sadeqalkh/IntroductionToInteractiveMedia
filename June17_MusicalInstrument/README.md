@@ -12,6 +12,8 @@ https://www.youtube.com/watch?v=9u_NWaqj8gU
 
 ### Schematic Diagram:
 
+#### Will be uploaded after class.
+
 ### Concept:
 
 The concept of this program is to give the user the ability to experience two different musical instruments to create specific tones. The analog reader in this program, the Distance Measuring Sensor, helps create different tones depending on particular ranges of a subject's distance. The sounds of this measurement are connected to Arduino's Buzzer. These tones from the analog reader are considered frequencies in the program, in which there are ten different frequencies that the reader can input to the program. The concept of the Distance Measuring Sensor and Buzzer has similarities to DJs. For instance, a DJ would choose specific areas from a Disc to manipulate a song based on its continuity. The analog reader from the example is similar because the user in the future may want to add specific tones to the Buzzer and can be manipulated through the moving one's hand to the analog reader. 
