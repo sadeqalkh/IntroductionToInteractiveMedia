@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=9u_NWaqj8gU
 
 ### Schematic Diagram:
 
-#### Will be uploaded after class.
+![Schematic Diagram June 17](https://user-images.githubusercontent.com/60816393/84896754-85e26f80-b0b5-11ea-9800-99ff6b15fb96.jpeg)
 
 ### Concept:
 
