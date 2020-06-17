@@ -10,6 +10,8 @@
 
 https://www.youtube.com/watch?v=9u_NWaqj8gU
 
+### Schematic Diagram:
+
 ### Concept:
 
 ### Outcome:
