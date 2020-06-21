@@ -13,6 +13,7 @@ the user's output screen. The user is expected the move the jet up or down by th
 the user enters his/her hand within the ultrasonic sensor's region, the jet will go down, and as there are no updates to the 
 sensor, the plane will remain up.
 /*
+
 int i, j; //initializing i and j as integer variables
 
 float Plane_Value; //for Jet's Y position
