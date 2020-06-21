@@ -27,6 +27,7 @@ Final Idea wirings and connections:
 ##### Final Idea: Ultrasonic sensor to contorl the altitude of a jet plane.
 
 ### Video of the Final Idea:
+https://www.youtube.com/watch?v=cNgZyGGEgHk
 
 ### Initial Concepts:
 
