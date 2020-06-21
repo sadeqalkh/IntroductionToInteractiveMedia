@@ -52,3 +52,16 @@ At this point, followed by time pressure, I decided to try an example that uses 
 I started to question myself at this stage, what is the least command a game can perform through an INPUT. I realized that I could use one button, a potentiometer, or an ultrasonic distance measuring sensor. I felt motivated to experiment with the ultrasonic sensor since it might be my last hope before the deadline. I searched for examples with similar concepts of "Flappy Bird" and used an ultrasonic sensor. I found one example which contained a flying plane that is motivated by ultrasonic sensor updates. Regardless of the code's description, this example is a lifesaver, in which, it helped me to acknowledge how data is transmitted from an ultrasonic sensor to Processing. It worked fine in my program, which resulted in me tweaking its declaration and removing unnecessary command in the program. It was hard to understand the code; however, it passed through each line bit by bit removing lines and adding them back to understand the primary function.
 
 ### Sources:
+
+##### Arduino Examples:
+
+- "Graph"
+- "Button"
+
+##### Final Idea Example:
+
+https://www.instructables.com/id/How-to-control-a-simple-Processing-game-with-Ardui/
+
+##### Tutorials on using communication
+
+https://howtomechatronics.com/tutorials/arduino/processing/
