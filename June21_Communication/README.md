@@ -27,6 +27,7 @@ Final Idea wirings and connections:
 ##### Final Idea: Ultrasonic sensor to contorl the altitude of a jet plane.
 
 ### Concept:
+The concept of the program is that the program will have the oppurtinity to control flappy bird "https://flappybird.io" alike game without having a physical contact to either a touch screen or a keyboard. Under progress...
 
 ### Outcome:
 
