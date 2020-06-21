@@ -22,9 +22,15 @@ Final Idea wirings and connections:
 
 ##### Initial Idea: Buttons to control a snake game.
 
+![Initial Idea Schematic](https://user-images.githubusercontent.com/60816393/85230530-e64d1600-b401-11ea-80e4-f9f4f06f9c8b.jpeg)
+
 ##### Second Idea: Potentiometer to contol a rect() in breakout game.
 
+![Second Idea Schematic](https://user-images.githubusercontent.com/60816393/85230531-e77e4300-b401-11ea-960c-b99a8f79b7fa.jpeg)
+
 ##### Final Idea: Ultrasonic sensor to contorl the altitude of a jet plane.
+
+![Final Idea Schematic](https://user-images.githubusercontent.com/60816393/85230527-e3522580-b401-11ea-98f1-6305963c349c.jpeg)
 
 ### Video of the Final Idea:
 https://www.youtube.com/watch?v=cNgZyGGEgHk
