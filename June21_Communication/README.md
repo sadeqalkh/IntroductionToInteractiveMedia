@@ -28,10 +28,16 @@ Final Idea wirings and connections:
 
 ### Video of the Final Idea:
 
+### Initial Concepts:
 
-### Concept:
+The initial concepts in which I passed through considered two different games, the breakout game, and the snake game. The snake game, the program included three different input buttons, two for the left and right controls, and the third was for the game reset. The up and down button in this program did not exist mainly because of the breadboard size. Thus, the user had to double-tap the left button for down and double-tap right for up. The user had to follow instructions at the start of the game to acknowledge the controls.
+
+The second game, which is the breakout game, used a potentiometer as an analog read. The role of the potentiometer is to direct two different directions in the game, right and left. As the potentiometer moves to its maximum value, a base rec() will be motivated to go right, and if the value is minimum in the potentiometer, the rect() will move to the left. Because the second game seemed simple, I intended to experiment with inputting values and commands from Arduino to processing. Thus, I considered it as a trial step in this assignment. 
+
+### Working Concept:
 
 The program's concept is to introduce the users a new way of interacting with a game. The user in this program has the opportunity to control a similar version of the flappy bird "https://flappybird.io" game without having physical contact with either a touch screen or a keyboard. The flying jet, the name of this program's name, is positioned in the middle of the user's output screen. The user is expected the move the jet up or down by the ultrasonic distance measuring sensor. As the user enters his/her hand within the ultrasonic sensor's region, the jet will go down, and as there are no updates to the sensor, the plane will remain up.
+
 
 ### Outcome:
 
