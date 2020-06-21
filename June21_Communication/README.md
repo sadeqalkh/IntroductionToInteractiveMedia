@@ -81,7 +81,7 @@ https://maker.pro/arduino/tutorial/how-to-make-arduino-and-processing-ide-commun
 
 https://forum.processing.org/two/discussion/7293/using-arduino-buttons-to-do-something-in-processing-best-method
 
-##### Tutorial on potentiometer communication to Arduino:
+##### Tutorial on potentiometer's communication to Arduino:
 
 https://forum.processing.org/two/discussion/7293/using-arduino-buttons-to-do-something-in-processing-best-method
 
