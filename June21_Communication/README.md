@@ -62,6 +62,33 @@ I started to question myself at this stage, what is the least command a game can
 
 https://www.instructables.com/id/How-to-control-a-simple-Processing-game-with-Ardui/
 
-##### Tutorials on using communication
+##### Tutorials on using communication:
 
 https://howtomechatronics.com/tutorials/arduino/processing/
+
+https://learn.sparkfun.com/tutorials/connecting-arduino-to-processing/all
+
+https://maker.pro/arduino/tutorial/how-to-make-arduino-and-processing-ide-communicate
+
+##### Forums:
+
+https://forum.processing.org/two/discussion/7293/using-arduino-buttons-to-do-something-in-processing-best-method
+
+##### Tutorial on potentiometer communication to Arduino:
+
+https://forum.processing.org/two/discussion/7293/using-arduino-buttons-to-do-something-in-processing-best-method
+
+##### Snake Game Development:
+
+https://www.youtube.com/watch?time_continue=2&v=AaGK-fj-BAM&feature=emb_title
+
+https://www.openprocessing.org/sketch/50988/
+
+https://discourse.processing.org/t/snake-game-code/1725
+
+##### Breakout Game:
+
+http://programmingjustforfun.blogspot.com/2015/11/9-breakout-game-in-processing.html
+
+https://www.youtube.com/watch?v=Bh8-C8gzmXI&feature=emb_logo
+
