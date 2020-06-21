@@ -30,7 +30,8 @@ Final Idea wirings and connections:
 
 
 ### Concept:
-The concept of the program is that the program will have the oppurtinity to control flappy bird "https://flappybird.io" alike game without having a physical contact to either a touch screen or a keyboard. Under progress...
+
+The program's concept is to introduce the users a new way of interacting with a game. The user in this program has the opportunity to control a similar version of the flappy bird "https://flappybird.io" game without having physical contact with either a touch screen or a keyboard. The flying jet, the name of this program's name is positioned in the middle of the user's output screen. The user is expected the move the jet up or down by the ultrasonic distance measuring senor
 
 ### Outcome:
 
