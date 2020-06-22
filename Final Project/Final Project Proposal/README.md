@@ -4,6 +4,8 @@
 
 ![Final Project Proposal Schematic](https://user-images.githubusercontent.com/60816393/85263345-176c2b80-b480-11ea-99b0-50aeafce9d34.jpeg)
 
+The resistors in the schematic diagram will be 10k Ohms.
+
 ### Arduino to Processing:
 
 In Arduino, the analog sensor "ultrasonic distance measuring sensor" will transmit recieved data from surroundings to the Processing. In which, I will create 3 different ranges followed by a text in within the field of 2-400 cm. 
