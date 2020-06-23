@@ -4,7 +4,7 @@
 
 ![Final Project Proposal Schematic](https://user-images.githubusercontent.com/60816393/85263345-176c2b80-b480-11ea-99b0-50aeafce9d34.jpeg)
 
-The resistors in the schematic diagram will be 10k Ohms.
+The resistors in the schematic diagram will be 330 Ohms.
 
 ### Arduino to Processing:
 
