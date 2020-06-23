@@ -4,6 +4,8 @@
 
 ### The Schematic Diagram:
 
+![Final Project Schematic](https://user-images.githubusercontent.com/60816393/85453630-23094080-b5ad-11ea-8ab2-d9733716a191.jpeg)
+
 ### Video Documentation:
 
 ### Concept:
