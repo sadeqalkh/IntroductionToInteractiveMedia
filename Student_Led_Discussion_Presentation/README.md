@@ -1,1 +1,1 @@
-### The powerpoint presentation is in the folder: IM Presentation.pptx
+### The powerpoint presentation is in the file: IM Presentation.pptx
