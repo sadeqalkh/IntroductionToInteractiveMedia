@@ -14,6 +14,8 @@
 
 ### Video Documentation:
 
+https://www.youtube.com/watch?v=W0t5nFYfeac
+
 ### Concept:
 
 The program's concept is to enhance the safety of the users from the COVID-19 pandemic. The user in this program will be alerted by three Processing background colors, and three LED lights. The backgrounds and lights are in RED, YELLOW, and GREEN. The RED color in this program is considered a danger zone or a region in which the user is experiencing outside his house. YELLOW color represents an average zone in which the user can suffer in case of over crowdings. The program within the second stage, which is YELLOW, will alert the user that he is still in a danger zone and that it is preferred to step back for a safe area. GREEN, which is represented as a safe zone, motivates the user to experience a proper social distancing. 
